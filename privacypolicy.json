@@ -1,0 +1,87 @@
+{
+  "privacyPolicy": {
+    "companyName": "Tech.",
+    "lastUpdated": "2025-04-12",
+    "contactInformation": {
+      "email": "support@tech.com",
+      "phone": "+94 78 182 7743",
+      "address": "304,Temple RD,Kandy"
+    },
+    "dataCollection": {
+      "personalInformation": {
+        "typesCollected": [
+          "Name",
+          "Email",
+          "Phone Number",
+          "Shipping Address",
+          "Billing Information"
+        ],
+        "collectionMethods": [
+          "Website Forms",
+          "In-Store Purchases",
+          "Phone Orders"
+        ],
+        "purposeOfCollection": [
+          "Order Processing",
+          "Shipping",
+          "Customer Support",
+          "Marketing and Promotions"
+        ]
+      },
+      "nonPersonalInformation": {
+        "typesCollected": [
+          "IP Address",
+          "Browser Information",
+          "Device Type",
+          "Cookies"
+        ],
+        "purposeOfCollection": [
+          "Website Analytics",
+          "Improving User Experience",
+          "Marketing Insights"
+        ]
+      }
+    },
+    "dataUsage": {
+      "sharingWithThirdParties": {
+        "thirdParties": [
+          "Shipping Companies",
+          "Payment Processors",
+          "Marketing Platforms",
+          "Customer Support Tools"
+        ],
+        "purpose": "To complete orders and enhance customer service."
+      },
+      "dataRetention": {
+        "policy": "We retain your data for as long as necessary to fulfill orders and comply with legal obligations."
+      }
+    },
+    "dataSecurity": {
+      "measures": [
+        "Encryption",
+        "Secure Payment Gateways",
+        "Data Access Controls"
+      ],
+      "breachNotification": "We will notify affected users within 72 hours in case of a data breach."
+    },
+    "userRights": {
+      "access": "Users can request access to their personal data.",
+      "rectification": "Users can request corrections to any inaccurate data.",
+      "deletion": "Users can request the deletion of their personal data.",
+      "optOut": {
+        "marketingEmails": "Users can opt-out of marketing emails at any time by clicking 'unsubscribe'.",
+        "cookies": "Users can disable cookies in their browser settings."
+      }
+    },
+    "childrenPrivacy": {
+      "policy": "We do not knowingly collect personal information from children under 13."
+    },
+    "changesToPolicy": {
+      "notificationMethod": "Email or website notification",
+      "advanceNotice": "30 days before changes take effect."
+    },
+    "legalCompliance": {
+      "jurisdiction": "This privacy policy complies with the laws of the United States and any applicable international regulations."
+    }
+  }
+}
